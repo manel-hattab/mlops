@@ -1,0 +1,12 @@
+# Environnement virtuel Python
+venv/
+venv312/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers locaux MLflow
+mlruns/
+mlflow.db
